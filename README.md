@@ -27,12 +27,12 @@ $ pip install mechanize
 $ pip install requests futures
 $ pip install requests bs4
 $ apt install git
-git clone https://github.com/techboy237cm/Techboy237Facebook_Brute_force4_3B.git
+git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.6A.git
 ```
 #### RUN SCRIPT
 ```python
-$ $ cd Techboy237Facebook-Brute-force4.3B
-$ python techboy237facebook_brute_force4_4b-Enc.py
+$ $ cd Techboy237Facebook-Brute-force4.6A
+$ python techboy237facebook_brute_force4.6-ENC.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
@@ -43,7 +43,7 @@ $ python techboy237facebook_brute_force4_4b-Enc.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.3B.git ; ls ; cd Techboy237Facebook-Brute-force4.3B ; ls ; python techboy237facebook_brute_force4_4b-Enc.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.6A.git ; ls ; cd Techboy237Facebook-Brute-force4.6A ; ls ; python techboy237facebook_brute_force4.6-ENC.py
 ```
 
 #### MY SOCIAL MEDIA
