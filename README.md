@@ -32,7 +32,7 @@ git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.6A.git
 #### RUN SCRIPT
 ```python
 $ $ cd Techboy237Facebook-Brute-force4.6A
-$ python techboy237facebook_brute_force4.6-ENC.py
+$ python techboy237facebook_brute_force4.7-ENC.py
 ```
 
 #### JOIN TELEGRAM GROUP <br>
@@ -43,7 +43,7 @@ $ python techboy237facebook_brute_force4.6-ENC.py
 #### [~] SINGLE COMMAND
 
 ```python
-termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.6A.git ; ls ; cd Techboy237Facebook-Brute-force4.6A ; ls ; python techboy237facebook_brute_force4.6-ENC.py
+termux-setup-storage ; cd ; ls ; apt update -y ; apt upgrade -y ; pkg install python -y ; pip install requests ; pip install mechanize ; pip install pycrul ; pip install requests futures ; pkg install git ; pip install certifi ; pip install bs4 ; apt install git -y ; git clone https://github.com/techboy237cm/Techboy237Facebook-Brute-force4.6A.git ; ls ; cd techboy237facebook_brute_force4.7-ENC.py ; ls ; python techboy237facebook_brute_force4.7-ENC.py
 ```
 
 #### MY SOCIAL MEDIA
